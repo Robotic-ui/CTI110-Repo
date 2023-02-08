@@ -3,4 +3,4 @@ All classwork for CTI 110 is located here
 ## CTI 110 Repository
 Created for P1LAB1 |
 Last name: Rusbacky |
-| Date: 2/8/2023
+Date: 2/8/2023
